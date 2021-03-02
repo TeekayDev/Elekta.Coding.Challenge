@@ -1,0 +1,9 @@
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\bin\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.deps.json
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\bin\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.dll
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\bin\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.pdb
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\obj\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.csprojAssemblyReference.cache
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\obj\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.AssemblyInfoInputs.cache
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\obj\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.AssemblyInfo.cs
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\obj\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\obj\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.dll
+C:\Users\teeka\source\repos\Elekta.Coding.Challenge\Elekta.Patient.Appointment.DataStore\obj\Debug\netcoreapp3.1\Elekta.Patient.Appointment.DataStore.pdb

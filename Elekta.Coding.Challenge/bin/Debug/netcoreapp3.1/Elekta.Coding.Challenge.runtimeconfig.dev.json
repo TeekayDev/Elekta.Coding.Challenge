@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\teeka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\teeka\\.nuget\\packages"
+    ]
+  }
+}

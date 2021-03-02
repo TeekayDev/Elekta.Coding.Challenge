@@ -1,0 +1,26 @@
+{
+  [
+    {
+      "AppointmentID": 1,
+      "AppointmentTime": "2021-03-23 10:00:00",
+      "EquipmentId": 1,
+      "PatientID": 3,
+      "Cancelled": false
+    },
+    {
+      "AppointmentID": 2,
+      "AppointmentTime": "2021-03-23 11:30:00",
+      "EquipmentId": 1,
+      "PatientID": 45,
+      "Cancelled": false
+    },
+    {
+      "AppointmentID": 3,
+      "AppointmentTime": "2021-03-23 11:30:00",
+      "EquipmentId": 2,
+      "PatientID": 9,
+      "Cancelled": false
+    }
+  ]
+
+}

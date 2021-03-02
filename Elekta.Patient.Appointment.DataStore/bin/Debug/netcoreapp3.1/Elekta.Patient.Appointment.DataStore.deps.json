@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Elekta.Patient.Appointment.DataStore/1.0.0": {
+        "runtime": {
+          "Elekta.Patient.Appointment.DataStore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elekta.Patient.Appointment.DataStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
