@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elekta.Patient.Appointment", "Elekta.Patient.Appointment\Elekta.Patient.Appointment.csproj", "{05CA201E-0011-4C24-BC67-E4AC5FE35439}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elekta.Patient.Appointment.Services", "Elekta.Patient.Appointment.Services\Elekta.Patient.Appointment.Services.csproj", "{7295978E-01D1-492D-BC2F-D756DCBD2FE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elekta.Patient.Appointment.DataStore", "Elekta.Patient.Appointment.DataStore\Elekta.Patient.Appointment.DataStore.csproj", "{FDB6B7F6-9F31-4D73-BFED-1BAD8947B60A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elekta.Patient.Appointment.Listing", "Elekta.Patient.Appointment.Listing\Elekta.Patient.Appointment.Listing.csproj", "{52C5264A-987F-4C2D-846D-F5227C9227F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elekta.Patient.Appointment.Tests", "Elekta.Patient.Appointment.Tests\Elekta.Patient.Appointment.Tests.csproj", "{A70ABC1C-2D29-4403-B649-FC034201C46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CA201E-0011-4C24-BC67-E4AC5FE35439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CA201E-0011-4C24-BC67-E4AC5FE35439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CA201E-0011-4C24-BC67-E4AC5FE35439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CA201E-0011-4C24-BC67-E4AC5FE35439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7295978E-01D1-492D-BC2F-D756DCBD2FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7295978E-01D1-492D-BC2F-D756DCBD2FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7295978E-01D1-492D-BC2F-D756DCBD2FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7295978E-01D1-492D-BC2F-D756DCBD2FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB6B7F6-9F31-4D73-BFED-1BAD8947B60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB6B7F6-9F31-4D73-BFED-1BAD8947B60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB6B7F6-9F31-4D73-BFED-1BAD8947B60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB6B7F6-9F31-4D73-BFED-1BAD8947B60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C5264A-987F-4C2D-846D-F5227C9227F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C5264A-987F-4C2D-846D-F5227C9227F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C5264A-987F-4C2D-846D-F5227C9227F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C5264A-987F-4C2D-846D-F5227C9227F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70ABC1C-2D29-4403-B649-FC034201C46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70ABC1C-2D29-4403-B649-FC034201C46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70ABC1C-2D29-4403-B649-FC034201C46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70ABC1C-2D29-4403-B649-FC034201C46E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB4011A-59ED-472C-9F89-C1632F8A0031}
+	EndGlobalSection
+EndGlobal
